@@ -1,5 +1,7 @@
 import React from 'react';
-
+import Navbar from "./Navbar"
 export default function Aboutus(){
-  return<div>Aboutus</div>
+  return<div>
+    <Navbar/>
+    Aboutus</div>
 }
